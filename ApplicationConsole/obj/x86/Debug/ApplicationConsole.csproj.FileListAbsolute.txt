@@ -1,0 +1,16 @@
+F:\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\ApplicationConsole.exe
+F:\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\ApplicationConsole.pdb
+F:\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\BibliotecaExamen.dll
+F:\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\BibliotecaExamen.pdb
+F:\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.csprojResolveAssemblyReference.cache
+F:\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.exe
+F:\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.pdb
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.exe
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.pdb
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\ApplicationConsole.exe
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\ApplicationConsole.pdb
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\BibliotecaExamen.dll
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\bin\Debug\BibliotecaExamen.pdb
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.csprojResolveAssemblyReference.cache
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.exe
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\ApplicationConsole\obj\x86\Debug\ApplicationConsole.pdb

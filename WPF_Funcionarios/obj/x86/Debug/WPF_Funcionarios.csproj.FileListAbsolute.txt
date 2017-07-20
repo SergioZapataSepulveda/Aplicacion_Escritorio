@@ -1,0 +1,70 @@
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.exe
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.pdb
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.dll
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.pdb
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csprojResolveAssemblyReference.cache
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.baml
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.g.cs
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\App.g.cs
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios_MarkupCompile.cache
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.g.resources
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.Properties.Resources.resources
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csproj.GenerateResource.Cache
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.exe
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.pdb
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.exe
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.pdb
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.exe
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.pdb
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.dll
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.pdb
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csprojResolveAssemblyReference.cache
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.baml
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.g.cs
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\App.g.cs
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios_MarkupCompile.cache
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.g.resources
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.Properties.Resources.resources
+F:\--- Duoc\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csproj.GenerateResource.Cache
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.exe
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.pdb
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.exe
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.pdb
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.dll
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.pdb
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csprojResolveAssemblyReference.cache
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.baml
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.g.cs
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\App.g.cs
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios_MarkupCompile.cache
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.g.resources
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.Properties.Resources.resources
+F:\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csproj.GenerateResource.Cache
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.exe
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.pdb
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.exe
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.pdb
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.dll
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.pdb
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csprojResolveAssemblyReference.cache
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.baml
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.g.cs
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\App.g.cs
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios_MarkupCompile.cache
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.g.resources
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.Properties.Resources.resources
+E:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csproj.GenerateResource.Cache
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.exe
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.pdb
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.exe
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\WPF_Funcionarios.pdb
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.dll
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\bin\Debug\BibliotecaExamen.pdb
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csprojResolveAssemblyReference.cache
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.baml
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\MainWindow.g.cs
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\App.g.cs
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios_MarkupCompile.cache
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.g.resources
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.Properties.Resources.resources
+F:\Trabajo\Trabajos\Duoc Analista\3er Semestre\Punto Net\06-30-2016 Preparacion Examen\SolucionExamen\WPF_Funcionarios\obj\x86\Debug\WPF_Funcionarios.csproj.GenerateResource.Cache

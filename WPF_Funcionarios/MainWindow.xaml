@@ -1,0 +1,100 @@
+﻿<Window x:Class="WPF_Funcionarios.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="805" Width="945" Foreground="White">
+    <Grid Width="921" Height="745">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="115*" />
+            <ColumnDefinition Width="806*" />
+        </Grid.ColumnDefinitions>
+        <Label Content="Rut: " Height="28" HorizontalAlignment="Left" Margin="29,52,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Genero:" Height="28" HorizontalAlignment="Left" Margin="28,84,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Fecha Nacimento:" Height="28" HorizontalAlignment="Left" Margin="29,116,0,0" Name="label3" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Fecha Contrato:" Height="28" HorizontalAlignment="Left" Margin="29,150,0,0" Name="label4" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Sueldo Base:" Height="28" HorizontalAlignment="Left" Margin="29,183,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Tipo Funcionario: " Height="28" HorizontalAlignment="Left" Margin="29,214,0,0" Name="label6" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Turnos:" Height="28" HorizontalAlignment="Left" Margin="231,147,0,0" Name="label8" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Rotacion:" Height="28" HorizontalAlignment="Left" Margin="231,191,0,0" Name="label9" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Tecnico:" Height="28" HorizontalAlignment="Left" Margin="231,122,0,0" Name="label13" VerticalAlignment="Top" FontSize="13" FontStretch="SemiExpanded" Foreground="Black" FontStyle="Normal" FontWeight="Bold" Grid.Column="1" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="30,116,0,0" Name="dtp_Fecha_Nacimiento" VerticalAlignment="Top" Width="142" Grid.Column="1" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="30,150,0,0" Name="dtp_Fecha_Contrato" VerticalAlignment="Top" Width="142" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="30,52,0,0" Name="txt_Rut" VerticalAlignment="Top" Width="142" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="30,183,0,0" Name="txt_SueldoBase" VerticalAlignment="Top" Width="142" Grid.Column="1" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="30,84,0,0" Name="cbo_Genero" VerticalAlignment="Top" Width="142" Grid.Column="1" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="30,214,0,0" Name="cbo_TipoFuncionario" VerticalAlignment="Top" Width="142" SelectionChanged="cbo_TipoFuncionario_SelectionChanged" Grid.Column="1" />
+        <Label Content="Tecnicos a Cargo:" Height="28" HorizontalAlignment="Left" Margin="374,147,0,0" Name="label10" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Curso Especialización:" Height="28" HorizontalAlignment="Left" Margin="374,191,0,0" Name="label11" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Profesional:" FontSize="13" FontStretch="SemiExpanded" FontStyle="Normal" FontWeight="Bold" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="374,122,0,0" Name="label12" VerticalAlignment="Top" Grid.Column="1" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="236,214,0,0" Name="cbo_Tecnico_Rotacion" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="379,170,0,0" Name="txt_Profesional_TecnicosACargo" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="379,214,0,0" Name="txt_Profesional_Especializacion" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="236,170,0,0" Name="txt_Tecnico_Turnos" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <Label Content="Rut" Height="28" HorizontalAlignment="Left" Margin="231,52,0,0" Name="label15" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Jefatura" FontSize="13" FontStretch="SemiExpanded" FontStyle="Normal" FontWeight="Bold" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="231,22,0,0" Name="label17" VerticalAlignment="Top" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="236,75,0,0" Name="txt_Jefatura_Rut" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <Label Content="Fecha Nacimento:" Height="28" HorizontalAlignment="Left" Margin="374,53,0,0" Name="label19" VerticalAlignment="Top" Grid.Column="1" />
+        <DatePicker Height="23" HorizontalAlignment="Left" Margin="379,76,0,0" Name="dtp_Jefatura_Fecha_Nacimiento" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <Label Content="Funcionario Base:" FontSize="13" FontStretch="SemiExpanded" FontStyle="Normal" FontWeight="Bold" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="29,22,0,0" Name="label18" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Años de Especialización:" Height="28" HorizontalAlignment="Left" Margin="518,147,0,0" Name="label14" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Especialista:" FontSize="13" FontStretch="SemiExpanded" FontStyle="Normal" FontWeight="Bold" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="518,122,0,0" Name="label16" VerticalAlignment="Top" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="523,170,0,0" Name="txt_Especialista_AniosEspecializacion" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <Label Content="Estudios:" Height="28" HorizontalAlignment="Left" Margin="518,52,0,0" Name="label20" VerticalAlignment="Top" Grid.Column="1" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="523,75,0,0" Name="cbo_Jefatura_Estudios" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        <DataGrid AutoGenerateColumns="True" Height="143" HorizontalAlignment="Left" Margin="29,268,0,0" Name="dg_Mostrar" VerticalAlignment="Top" Width="870" IsReadOnly="True" SelectionChanged="dg_Mostrar_SelectionChanged" Grid.ColumnSpan="2" />
+        <Button Content="Agregar al Registro" Height="23" HorizontalAlignment="Left" Margin="659,239,0,0" Name="btn_Agregar" VerticalAlignment="Top" Width="125" Click="btn_Agregar_Click" Background="#FF858D8D" FontStretch="UltraExpanded" FontWeight="Bold" BorderBrush="White" Foreground="#FFD1D1D1" Grid.Column="1" />
+        <CheckBox Content="Le Corresponden Vacaciones" Height="16" HorizontalAlignment="Left" Margin="39,418,0,0" Name="chk_Chek_Vacaciones" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Label Content="Bono Anual" Height="28" HorizontalAlignment="Left" Margin="167,411,0,0" Name="label21" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Bono Trienio" Height="28" HorizontalAlignment="Left" Margin="441,410,0,0" Name="label22" VerticalAlignment="Top" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="254,415,0,0" Name="txt_bono_Anual" VerticalAlignment="Top" Width="120" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="523,414,0,0" Name="txt_bono_Trienio" VerticalAlignment="Top" Width="120" Grid.Column="1" />
+        <Label Content="Nombre Jefe:" Height="28" HorizontalAlignment="Left" Margin="654,51,0,0" Name="label7" VerticalAlignment="Top" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="659,75,0,0" Name="txt_Jefatura_Nombre_Jefe" VerticalAlignment="Top" Width="125" Grid.Column="1" />
+        
+        
+        <Label Content="Estadísticas" FontSize="13" FontStretch="SemiExpanded" FontStyle="Normal" FontWeight="Bold" Foreground="Black" Height="28" HorizontalAlignment="Left" Margin="29,472,0,0" Name="label24" VerticalAlignment="Top" />
+        <Button Background="#FF858D8D" BorderBrush="White" Content="Mostrar / Recalcular" FontStretch="UltraExpanded" FontWeight="Bold" Foreground="#FFD1D1D1" Height="23" HorizontalAlignment="Left" Margin="659,478,0,0" Name="button1" VerticalAlignment="Top" Width="125" Click="button1_Click" Grid.Column="1" />
+        
+        <Label Content="Sueldo Mínimo Tec." Height="28" HorizontalAlignment="Left" Margin="372,514,0,0" Name="label27" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Sueldo Máximo Tec." Height="28" HorizontalAlignment="Left" Margin="654,513,0,0" Name="label28" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Sueldo Promedio Tec." Height="28" HorizontalAlignment="Left" Margin="513,513,0,0" Name="label29" VerticalAlignment="Top" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="377,536,0,0" Name="txt_Est_Tec_Sueldo_Min" VerticalAlignment="Top" Width="124" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="518,536,0,0" Name="txt_Est_Tec_Sueldo_Promedio" VerticalAlignment="Top" Width="124" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="659,536,0,0" Name="txt_Est_Tec_Sueldo_Max" VerticalAlignment="Top" Width="124" Grid.Column="1" />
+        
+        <Label Content="Sueldo Mínimo Espec." Height="28" HorizontalAlignment="Left" Margin="372,569,0,0" Name="label33" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Sueldo Máximo Espec." Height="28" HorizontalAlignment="Left" Margin="654,569,0,0" Name="label34" VerticalAlignment="Top" Grid.Column="1" />
+        <Label Content="Sueldo Promedio Espec." Height="28" HorizontalAlignment="Left" Margin="513,569,0,0" Name="label35" VerticalAlignment="Top" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="377,592,0,0" Name="txt_Est_Espec_Sueldo_Min" VerticalAlignment="Top" Width="124" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="518,592,0,0" Name="txt_Est_Espec_Sueldo_Promedio" VerticalAlignment="Top" Width="124" Grid.Column="1" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="659,592,0,0" Name="txt_Est_Espec_Sueldo_Max" VerticalAlignment="Top" Width="124" Grid.Column="1" />
+        
+        <Label Content="Edad Mínimo" Height="28" HorizontalAlignment="Left" Margin="30,0,0,94" Name="label36" VerticalAlignment="Bottom" Grid.ColumnSpan="2" />
+        <Label Content="Edad Máximo " Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="197,622,0,0" Name="label37" VerticalAlignment="Top" />
+        <Label Content="Edad Promedio ." Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="55,622,0,0" Name="label38" VerticalAlignment="Top" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="60,646,0,0" Name="txt_Est_Edad_Promedio" VerticalAlignment="Top" Width="124" />
+        <TextBox Grid.ColumnSpan="2" Height="23" HorizontalAlignment="Left" Margin="34,646,0,0" Name="txt_Est_Edad_Min" VerticalAlignment="Top" Width="124" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="201,646,0,0" Name="txt_Est_Edad_Max" VerticalAlignment="Top" Width="124" />
+        
+        <Label Content="-----------" Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="372,622,0,0" Name="label39" VerticalAlignment="Top" />
+        <Label Content="Rut Sueldo Minimo" Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="654,622,0,0" Name="label40" VerticalAlignment="Top" />
+        <Label Content="Rut Sueldo Maximo" Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="513,622,0,0" Name="label41" VerticalAlignment="Top" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="377,646,0,0" Name="textBox4" VerticalAlignment="Top" Width="124" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="518,646,0,0" Name="txt_Est_Rut_Sueldo_Max" VerticalAlignment="Top" Width="124" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="659,646,0,0" Name="txt_Est_Rut_Sueldo_Min" VerticalAlignment="Top" Width="124" />
+        
+        <Label Content="Sueldo Máximo" Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="196,516,0,0" Name="label25" VerticalAlignment="Top" />
+        <Label Content="Sueldo Promedio" Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="55,516,0,0" Name="label26" VerticalAlignment="Top" />
+        <Label Content="Sueldo Mínimo" Height="28" HorizontalAlignment="Left" Margin="29,516,0,0" Name="label30" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <TextBox Grid.ColumnSpan="2" Height="23" HorizontalAlignment="Left" Margin="34,539,0,0" Name="txt_Est_Sueldo_Min" VerticalAlignment="Top" Width="124" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="201,539,0,0" Name="txt_Est_Sueldo_Max" VerticalAlignment="Top" Width="124" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="60,539,0,0" Name="txt_Est_Sueldo_Promedio" VerticalAlignment="Top" Width="124" />
+        
+        <Label Content="Sueldo Máximo Profec." Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="199,569,0,0" Name="label31" VerticalAlignment="Top" />
+        <Label Content="Sueldo Promedio Profec." Grid.Column="1" Height="28" HorizontalAlignment="Left" Margin="57,569,0,0" Name="label32" VerticalAlignment="Top" />
+        <Label Content="Sueldo Mínimo Profec." Height="28" HorizontalAlignment="Left" Margin="32,0,0,148" Name="label23" VerticalAlignment="Bottom" Grid.ColumnSpan="2" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="62,0,0,130" Name="txt_Est_Profec_Sueldo_Promedio" VerticalAlignment="Bottom" Width="124" />
+        <TextBox Grid.ColumnSpan="2" Height="23" HorizontalAlignment="Left" Margin="36,592,0,0" Name="txt_Est_Profec_Sueldo_Min" VerticalAlignment="Top" Width="124" />
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" Margin="203,592,0,0" Name="txt_Est_Profec_Sueldo_Max" VerticalAlignment="Top" Width="124" />
+
+    </Grid>
+</Window>
